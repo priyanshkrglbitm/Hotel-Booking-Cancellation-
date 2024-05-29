@@ -1,1 +1,1 @@
-This is Small Excel Project based on Data Analytics About Hotel Booking Cancellation .Where We trimmmed (Transformed data) created Necessary Pivot Table and lastly created a Dashboard to visualize the cancellation data based on different factors.
+This is a small Excel project based on data analytics about hotel booking cancellations. We transformed the data, created necessary pivot tables, and finally developed a dashboard to visualize the cancellation data based on various factors.
